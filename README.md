@@ -1,1 +1,5 @@
-# CS360
+# The app I designed is a weight tracking program, where users can log their weight daily. Once logged, they are able to see it in chart form and see the progress they have made.
+For this app to work, I needed a login/registration screen for users. Once they registered and logged in, it would take them to the main screen, where they could enter in all weight and dates. Lastly, I had privacy screen that allowed the user to sign up for text message notifications from the app regarding their goal weight and how close they are getting to it.
+I wanted to make this as easy as possible, so I approached the app by working on 1 screen at a time. I went through and did the GUI for each screen, designing how I wanted it to look. Once I was satified with how everything looked, I then proceeded to work on the backend of each screen, to make all functionality work.
+I used a combination of emulator devices and my physical android device to test the app and make sure all functionality worked as intended.
+When worked on the app, I struggled with making all functionality on the backend work properly. This took me several days of /redacted/ before I finally got it to work.
